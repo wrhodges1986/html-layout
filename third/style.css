@@ -1,0 +1,54 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+.setWidth {
+	width: 50%;
+	margin-left: 25%;
+	margin-right:25%;
+}
+
+.setTextAlign {
+	text-align: center;
+}
+
+.black {
+	background-color: black;
+	height: 9%;
+}
+
+.red {
+	background-color: #FF0000;
+	height: 9%;
+}
+
+.blue {
+	background-color: #0099CC;
+	height: 9%;
+}
+
+.purple {
+	background-color: #990099;
+	height: 9%;
+}
+
+.lightGray {
+	background-color: #D8D8C4;
+	height: 9%;
+}
+
+header {
+	height: 45%;
+	background-color: #D8D8C4;
+}
+
+h1 {
+	font-family: sans-serif;
+}
+
+p {
+	position: relative;
+	top: 100px;
+	font-size: 100px;
+}
